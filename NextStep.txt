@@ -1,0 +1,14 @@
+Practice websites:-
+https://www.hackerrank.com/
+https://projecteuler.net/
+https://www.interviewcake.com/
+https://www.topcoder.com/
+https://leetcode.com/
+http://bigocheatsheet.com/
+
+Problem collections:-
+https://github.com/mre/the-coding-interview
+https://github.com/h5bp/Front-end-Developer-Interview-Questions
+
+Blogpost:-
+https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
